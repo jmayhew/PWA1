@@ -18,7 +18,7 @@ console.log("FIGHT!!!");
     var playerOneHealth = 100;
     var playerTwoHealth = 100;
 
-    var round =1;
+    var round =0;
 
     function fight(){
 
@@ -70,23 +70,25 @@ console.log("FIGHT!!!");
 
         console.log("in the winnerCheck Fn");//if this goes out then winnerCheck is good
 
-        var result = "No Winner";//code will go here
+    var result = "No Winner";//code will go here
 
-        if (playerOneHealth<1 && playerTwoHealth<1);
-        result = "You Have Both Died";
-    }else if(playerOneHealth<1){
-        result = playerTwo +" Wins";
-    }else if(playerTwoHealth<1){
-        result = playerOne +" Wins";
-    };
+        if (playerOneHealth<1 && playerTwoHealth<1)
+        {
+            result = "You Both Die";
+        } else if(playerOneHealth<1){
+            result =playerTwo+" WINS!!!"
+        } else if (playerTwoHealth<1)
+        {
+            result = playerOne+" WINS!!!"
+        };
 
     return result;//goes to the winnerCheck()
 
-    var results = winnerCheck();//stores the results from return to winnerChecklater
+    //var results = winnerCheck();//stores the results from return to winnerChecklater
     //the program starts below to execute fight function
 
-    console.log('program starts here');
+    //console.log('program starts here');
 
     fight();
 
-})();
+    })();
