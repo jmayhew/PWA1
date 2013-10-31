@@ -52,6 +52,16 @@ console.log("FIGHT!!!");
         var results = winnerCheck();
         console.log(results);
 
+        if (result==="no winner")
+        {
+            round++;
+            alert(playerOneName+":"+playerOneHealth+"  *ROUND "+round+" OVER"+"*  "+playerTwoName+":"+playerTwoHealth);
+
+        } else{
+            alert(result);
+            break;
+        };
+
     };
     };
 

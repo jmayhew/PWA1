@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="638316b3-ead2-48c2-94e5-de76e64de15e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <ignored path="goal1_assign_duel1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="22" selection-start="1695" selection-end="1695" vertical-scroll-proportion="3.2386363" vertical-offset="0" max-vertical-offset="1305">
+            <state line="62" column="10" selection-start="1916" selection-end="1916" vertical-scroll-proportion="0.60227275" vertical-offset="771" max-vertical-offset="1455">
               <folding />
             </state>
           </provider>
@@ -37,7 +37,7 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../goal1_assign_duel1 FINAL/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="0" selection-start="1564" selection-end="1564" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1245">
+            <state line="55" column="14" selection-start="1285" selection-end="1563" vertical-scroll-proportion="0.0" vertical-offset="681" max-vertical-offset="1245">
               <folding />
             </state>
           </provider>
@@ -197,7 +197,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="460" y="89" width="462" height="559" extended-state="1" />
+    <frame x="460" y="89" width="462" height="559" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -240,14 +240,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../goal1_assign_duel1 FINAL/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="0" selection-start="1564" selection-end="1564" vertical-scroll-proportion="0.0" vertical-offset="981" max-vertical-offset="1245">
+        <state line="55" column="14" selection-start="1285" selection-end="1563" vertical-scroll-proportion="0.0" vertical-offset="681" max-vertical-offset="1245">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="22" selection-start="1695" selection-end="1695" vertical-scroll-proportion="3.2386363" vertical-offset="0" max-vertical-offset="1305">
+        <state line="62" column="10" selection-start="1916" selection-end="1916" vertical-scroll-proportion="0.60227275" vertical-offset="771" max-vertical-offset="1455">
           <folding />
         </state>
       </provider>
