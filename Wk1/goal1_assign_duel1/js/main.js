@@ -55,11 +55,11 @@ console.log("FIGHT!!!");
         if (result==="no winner")
         {
             round++;
-            alert(playerOneName+":"+playerOneHealth+"  *ROUND "+round+" OVER"+"*  "+playerTwoName+":"+playerTwoHealth);
+            alert(playerOne+":"+playerOneHealth+"  *ROUND "+round+" OVER"+"*  "+playerTwo+":"+playerTwoHealth);
 
         } else{
             alert(result);
-            break;
+            break;//breaks out of for loop
         };
 
     };
