@@ -13,12 +13,16 @@
 	Variables
 
      BREAKING A VARIABLE DOWN TO INDIVIDUAL PIECES
+
          - an example
             var lastName = "bond"
 
          - variable declaration begins with the var keyword
+
          - variable assignment uses the assignment operator  ( = )
+
          - javascript does use loose typing
+
          - this means the coding engine will determine the data type
          automatically vs declaring what the variable will be
          (string, number, boolean, etc).
